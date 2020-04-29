@@ -46,3 +46,6 @@ go run <FILE_NAME>
 ```
 go run --work main.go
 ```
+
+### go commands
+![go_commands.png](https://github.com/96ankur/Golang/blob/master/img/go-commands.png)
