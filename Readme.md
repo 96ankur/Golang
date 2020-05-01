@@ -1,5 +1,6 @@
 ### Introduction
-Go also known as Golang is an open source, **compiled** and **statically typed** programming language developed by Google.
+- Go also known as Golang is an open source, **compiled** and **statically typed** programming language    developed by Google.
+- Go is not an object oriented programming language.
 
 ### Advantages of Go
 - Easy to write concurrent programs with the help of  **Goroutines** and **channels**.
