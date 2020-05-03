@@ -1,6 +1,7 @@
 ### Introduction
 - Go also known as Golang is an open source, **compiled** and **statically typed** programming language    developed by Google.
 - Go is not an object oriented programming language.
+- Co is a pass by value language. In order to use pass by address functionality we have to use POINTERS.
 
 ### Advantages of Go
 - Easy to write concurrent programs with the help of  **Goroutines** and **channels**.
@@ -50,3 +51,6 @@ go run --work main.go
 
 ### go commands
 ![go_commands.png](https://github.com/96ankur/Golang/blob/master/img/go-commands.png)
+
+### Value types VS Refrrence types
+![value_vs_reference](https://github.com/96ankur/Golang/blob/master/img/Value type vs Reference type.png)
